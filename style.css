@@ -1,0 +1,82 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding: 2px;
+    color: white;
+    background-color: steelblue;
+}
+
+
+header, footer {
+    text-align: center;
+    padding: 10px;
+    background-color: pink;
+    color: darkblue;
+}
+
+
+main {
+    margin: 20px 0;
+}
+
+section {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: darkmagenta;
+}
+
+h2, h3, h4 {
+    font-family: 'Open Sans', sans-serif;
+    color: lightpink;
+    text-align: center;
+    font-size: 1em;
+}
+
+iframe {
+    display: block;
+    max-width: 100%;
+    margin: 2em;
+    border: 2px solid pink;
+}
+
+p {
+    margin: 10px 0;
+    text-align: center
+}
+
+.citation {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+
+.content {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: paleturquoise;
+    font-weight: bold;
+    margin: 0 10px;
+}
+
+nav a:hover {
+    color: lightpink;
+}
+
+}
+img {
+    Border: 3px solid white;
+    float: center;
+    margin: 1.5em;
+    text-align: justify-all
+        
+}
+
